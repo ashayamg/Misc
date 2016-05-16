@@ -18,3 +18,10 @@ sudo apt-get install kdevelop
 apt-get install zsh
 apt-get install git-core
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+
+#### Install Color Gcc ######
+sudo apt-get install colorgcc
+sudo ln -s /usr/bin/colorgcc gcc
+sudo ln -s /usr/bin/colorgcc g++ 
+sudo ln -s /usr/bin/colorgcc cc 
+sudo ln -s /usr/bin/colorgcc c++
