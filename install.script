@@ -13,3 +13,8 @@ sudo apt-get install sublime-text-installer
 
 ##### This is for Kdevelop ####
 sudo apt-get install kdevelop
+
+##### Install ZSH ########
+apt-get install zsh
+apt-get install git-core
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
