@@ -6,3 +6,7 @@ sudo apt-get install oracle-java8-installer
 ####This is for Eclipse CDT ########
 sudo apt-get install eclipse eclipse-cdt
 
+#####For Sublime 3 ###############
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
