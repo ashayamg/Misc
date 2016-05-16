@@ -10,3 +10,6 @@ sudo apt-get install eclipse eclipse-cdt
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
+
+##### This is for Kdevelop ####
+sudo apt-get install kdevelop
