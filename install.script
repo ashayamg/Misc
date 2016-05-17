@@ -27,7 +27,7 @@ sudo ln -s /usr/bin/colorgcc cc
 sudo ln -s /usr/bin/colorgcc c++
 
 ###### Install Meld ################
-sudo apt-get install intltool itstool gir1.2-gtksource-3.0 libxml2-utils python-gobject
+sudo apt-get install intltool itstool gir1.2-gtksource-3.0 libxml2-utils python-gobject python-gi-cairo
 git clone https://git.gnome.org/browse/meld
 cd meld
 sudo python setup.py install
