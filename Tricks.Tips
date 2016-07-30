@@ -6,3 +6,7 @@ THEME=juanghurtado
 THEME=jnrowe
 THEME=intheloop
 THEME=Soliah
+
+
+## Aria2c Download ##
+aria2c -x 16 -s 16 <URL>
