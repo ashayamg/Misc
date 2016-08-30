@@ -10,3 +10,6 @@ THEME=Soliah
 
 ## Aria2c Download ##
 aria2c -x 16 -s 16 <URL>
+
+## Centos7 ####
+https://priteshugrankar.wordpress.com/2014/09/10/tweaking-centos-7-part-i/
