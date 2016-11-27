@@ -19,3 +19,6 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 
 ##Mac Font Issue
 https://gist.github.com/bastibense/6549835
+
+##Tut for htop
+https://www.softprayog.in/tutorials/htop-command-in-linux
