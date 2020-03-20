@@ -25,3 +25,6 @@ https://www.softprayog.in/tutorials/htop-command-in-linux
 
 ##Install brightness controller
 https://askubuntu.com/questions/942737/screen-brightness-of-dell-desktop-monitor
+
+##Grep faster
+LC_ALL=C fgrep
