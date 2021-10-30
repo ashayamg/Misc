@@ -2,3 +2,7 @@ Nice Ubuntu Terminal Setup:
 
 - Terminal Theme: AfterGlow
 - Font: Hack 15
+
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+06 -AfterGlow
+https://github.com/Mayccoll/Gogh
