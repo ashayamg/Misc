@@ -1,0 +1,4 @@
+Nice Ubuntu Terminal Setup:
+
+- Terminal Theme: AfterGlow
+- Font: Hack 15
